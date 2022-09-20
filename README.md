@@ -1,4 +1,3 @@
-<h2 align="center"> <img src="./hello.gif" width="420"></h2>
 <p align="center">我的能力</p>
 <div align="center">
   <img src="https://img.shields.io/badge/-JavaScript-f6da1c?style=flat&logo=javascript&logoColor=white">
